@@ -1,10 +1,10 @@
 
 
-#Colorful Light
+# Colorful Light
 	
-##Requirements:
+## Requirements:
 	
-###You will need the following items:
+### You will need the following items:
 	
 * Raspberry Pi Pico microcontroller
 * Breadboard
