@@ -1,28 +1,11 @@
-<html>
-
-<head>
-</head>
-
-<body>
-
-	<h1>Hello LED!</h1>
+# Hello LED!
 	
-	<h2>Requirements:</h2>
+## Requirements:
 	
-	<h3>You will need the following items:</h3>
+### You will need the following items:
 	
-	<ul>
-		<li>Raspberry Pi Pico microcontroller</li>
-		<li>Breadboard</li>
-		<li>220 ohm resistor</li>
-		<li>light-emitting diode (LED)</li>
-		<li>4 Jumper Wire cables</li>
-		
-
-
-	</ul>
-
-
-</body>
-
-</html>
+* Raspberry Pi Pico microcontroller
+* Breadboard
+* 220 ohm resistor
+* light-emitting diode (LED)
+* 4 Jumper Wire cables

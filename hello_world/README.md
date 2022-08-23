@@ -1,23 +1,7 @@
-<html>
-
-<head>
-</head>
-
-<body>
-
-	<h1>Hello World Pico</h1>
+# Hello World Pico
 	
-	<h2>Requirements:</h2>
+## Requirements:
+
+### You will need the following items:
 	
-	<h3>You will need the following items:</h3>
-	
-	<ul>
-		<li>Raspberry Pi Pico microcontroller</li>
-
-
-	</ul>
-
-
-</body>
-
-</html>
+* Raspberry Pi Pico microcontroller

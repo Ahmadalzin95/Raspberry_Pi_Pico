@@ -1,28 +1,11 @@
-<html>
-
-<head>
-</head>
-
-<body>
-
-	<h1>LED Bar Graph!</h1>
+# LED Bar Graph!
 	
-	<h2>Requirements:</h2>
+## Requirements:
 	
-	<h3>You will need the following items:</h3>
+### You will need the following items:
 	
-	<ul>
-		<li>Raspberry Pi Pico microcontroller</li>
-		<li>Breadboard</li>
-		<li>10 (220 ohm) resistors</li>
-		<li>LED Bar Graph (LEDs with 10 output pins)</li>
-		<li>13 Jumper Wire cables</li>
-		
-
-
-	</ul>
-
-
-</body>
-
-</html>
+* Raspberry Pi Pico microcontroller
+* Breadboard
+* 10 (220 ohm) resistors
+* LED Bar Graph (LEDs with 10 output pins)
+* 13 Jumper Wire cables
