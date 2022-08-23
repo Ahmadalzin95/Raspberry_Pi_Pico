@@ -1,29 +1,14 @@
-<html>
 
-<head>
-</head>
 
-<body>
-
-	<h1>Colorful Light</h1>
+#Colorful Light
 	
-	<h2>Requirements:</h2>
+##Requirements:
 	
-	<h3>You will need the following items:</h3>
+###You will need the following items:
 	
-	<ul>
-		<li>Raspberry Pi Pico microcontroller</li>
-		<li>Breadboard</li>
-		<li>2 (220 ohm) resistors</li>
-		<li>1 (330 ohm) resistor</li>
-		<li>RGB LED</li>
-		<li>7 Jumper Wire cables</li>
-		
-
-
-	</ul>
-
-
-</body>
-
-</html>
+* Raspberry Pi Pico microcontroller
+* Breadboard
+* 2 (220 ohm) resistors
+* 1 (330 ohm) resistor
+* RGB LED
+* 7 Jumper Wire cables
